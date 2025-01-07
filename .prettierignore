@@ -1,0 +1,7 @@
+.next
+node_modules
+coverage
+yarn.lock
+package-lock.json
+public
+src/styles/swiper-bundle.min.css
